@@ -1,0 +1,16 @@
+img {
+	width: 30%;
+	margin: 1.66%;
+	float: left;
+}
+
+p {
+	font-family: Garamond;
+	margin-left: 1.66%;
+	font-size: 25px;
+	font-weight: 1500;
+	text-transform: capitalize;
+	border-bottom: 1px solid orange;
+	width: 55%;
+	padding-bottom: 15px;
+}
